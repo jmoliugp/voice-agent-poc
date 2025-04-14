@@ -2,7 +2,15 @@
 
 A proof-of-concept voice agent application that demonstrates real-time voice interaction with an AI assistant. This application allows users to speak to an AI and receive voice responses, creating a natural conversation experience.
 
-![Voice Agent Demo](https://via.placeholder.com/800x400?text=Voice+Agent+Demonstration)
+## Demo
+
+The application features a clean, modern interface with:
+
+- A prominent microphone button for voice recording
+- Real-time transcription display
+- Conversation history with user and assistant messages
+- Playback controls for previous responses
+- Responsive design that works on both desktop and mobile devices
 
 ## Features
 
